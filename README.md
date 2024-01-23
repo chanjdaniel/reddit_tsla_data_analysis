@@ -48,13 +48,16 @@ Graphs:
 
 Low correlation between share price and reddit sentiment.
 
-<img src="https://github.com/chanjdaniel/sudovision/assets/97641190/9f11ad1a-7730-4978-8ac9-ef6e6da693ad" width="200">
+<img src="https://github.com/chanjdaniel/reddit_tsla_data_analysis/images/price_sentiment" width="200">
 
 Stronger relationship between comment counts and trading volume.
 
-Feature importances suggest that higher comment counts contribute more to model predictions of higher share price compared to sentiment.
+<img src="https://github.com/chanjdaniel/reddit_tsla_data_analysis/images/trad_vol_comm_count" width="200">
 
+Feature importances suggest that higher comment counts contribute more to model predictions of higher share price compared to sentiment.
 The subreddits "wallstreetbets" and "stocks" have more influence than the rest of reddit.
+
+<img src="https://github.com/chanjdaniel/reddit_tsla_data_analysis/images/feat_import" width="200">
 
 <p>&nbsp;</p>
 
